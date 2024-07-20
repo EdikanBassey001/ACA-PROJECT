@@ -1,7 +1,9 @@
-Overview
+**Overview**
+
 This dataset contains information about COVID-19 vaccinations across various countries. The data includes details such as the total number of vaccinations, persons vaccinated with at least one dose, fully vaccinated persons, and booster doses. It also provides metadata such as the date of the first vaccine administered, the types of vaccines used, and the source of the data.
 
-Dataset Description
+**Dataset Description**
+
 Columns:
 COUNTRY: Name of the country.
 ISO3: ISO3 code of the country.
@@ -19,15 +21,12 @@ FIRST_VACCINE_DATE: Date when the first vaccine was administered.
 NUMBER_VACCINES_TYPES_USED: Number of different vaccine types used.
 PERSONS_BOOSTER_ADD_DOSE: Number of persons who received a booster/additional dose.
 PERSONS_BOOSTER_ADD_DOSE_PER100: Number of persons who received a booster/additional dose per 100 people.
-Example Data:
-COUNTRY	ISO3	WHO_REGION	DATA_SOURCE	DATE_UPDATED	TOTAL_VACCINATIONS	PERSONS_VACCINATED_1PLUS_DOSE	TOTAL_VACCINATIONS_PER100	PERSONS_VACCINATED_1PLUS_DOSE_PER100	PERSONS_FULLY_VACCINATED	PERSONS_FULLY_VACCINATED_PER100	VACCINES_USED	FIRST_VACCINE_DATE	NUMBER_VACCINES_TYPES_USED	PERSONS_BOOSTER_ADD_DOSE	PERSONS_BOOSTER_ADD_DOSE_PER100
-Afghanistan	AFG	EMRO	REPORTING	7/10/2022	6491111	5755294	16.675	14.784	5105618	13.115	AstraZeneca - Vaxzevria, Beijing CNBG - BBIBP-CorV, ...	2/22/2021	11	NaN	NaN
-Albania	ALB	EURO	REPORTING	6/26/2022	2906126	1326545	101.000	46.612	1248781	43.879	AstraZeneca - Vaxzevria, Gamaleya - Gam-Covid-Vac (Sputnik V)	1/13/2021	5	324545	11.404
 
-Usage
+
+**Usage**
 This dataset can be used for various analyses, including:
 
-Monitoring the progress of COVID-19 vaccination programs across different countries.
-Comparing vaccination rates between different WHO regions.
-Studying the effectiveness and distribution of different vaccine types.
-Analyzing trends in booster dose administration.
+1. Monitoring the progress of COVID-19 vaccination programs across different countries.
+2. Comparing vaccination rates between different WHO regions.
+3. Studying the effectiveness and distribution of different vaccine types.
+4. Analyzing trends in booster dose administration.
