@@ -1,8 +1,8 @@
-**Overview**
+#**Overview**
 
 This dataset contains information about COVID-19 vaccinations across various countries. The data includes details such as the total number of vaccinations, persons vaccinated with at least one dose, fully vaccinated persons, and booster doses. It also provides metadata such as the date of the first vaccine administered, the types of vaccines used, and the source of the data.
 
-**Dataset Description**
+##**Dataset Description**
 
 Columns:
 COUNTRY: Name of the country.
@@ -23,7 +23,7 @@ PERSONS_BOOSTER_ADD_DOSE: Number of persons who received a booster/additional do
 PERSONS_BOOSTER_ADD_DOSE_PER100: Number of persons who received a booster/additional dose per 100 people.
 
 
-**Usage**
+##**Usage**
 
 This dataset can be used for various analyses, including:
 
