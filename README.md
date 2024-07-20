@@ -24,6 +24,7 @@ PERSONS_BOOSTER_ADD_DOSE_PER100: Number of persons who received a booster/additi
 
 
 **Usage**
+
 This dataset can be used for various analyses, including:
 
 1. Monitoring the progress of COVID-19 vaccination programs across different countries.
